@@ -1,0 +1,19 @@
+span {
+  display: inline-block;
+}
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+#pics{
+  display:inline-flex;
+  border: medium solid green;
+}
+#block1{
+  border:solid blue;
+  box-shadow: 5px 3px 3px 
+}
+#block3{
+  border: solid blue;
+  box-shadow: 5px 3px 3px 
+}
